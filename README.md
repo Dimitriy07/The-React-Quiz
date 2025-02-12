@@ -15,7 +15,7 @@ This is a 📚 study-purpose React Quiz 📝 that tests users on their ⚛️ Re
 
 1. 📥 Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/react-quiz.git
+   git clone (https://github.com/Dimitriy07/the-react-quiz.git)
    cd react-quiz
    ```
 2. 📦 Install dependencies:
